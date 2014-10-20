@@ -252,7 +252,7 @@
     var SPEED_MIN     = 50;
     var SPEED_MAX     = 100;
     var SIZE_MIN      = 100;
-    var SIZE_MAX      = 300;
+    var SIZE_MAX      = 200;
     var IMAGE_LENGTH  = 5;
     var is_animate    = true;
 
